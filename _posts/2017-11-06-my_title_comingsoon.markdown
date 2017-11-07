@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "my_title = "ComingSoon""
-date:       2017-11-07 01:08:23 +0000
+title:      "ComingSoon the Gem"
+date:       2017-11-06 20:08:23 -0500
 permalink:  my_title_comingsoon
 ---
 
