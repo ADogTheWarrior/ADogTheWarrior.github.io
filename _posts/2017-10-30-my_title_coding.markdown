@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "my_title = "Coding""
-date:       2017-10-30 22:34:43 +0000
+title:      "Coding Test"
+date:       2017-10-30 18:34:44 -0400
 permalink:  my_title_coding
 ---
 
