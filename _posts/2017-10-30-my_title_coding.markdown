@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Coding Test"
+title:      "My First Blog Post"
 date:       2017-10-30 18:34:44 -0400
 permalink:  my_title_coding
 ---
