@@ -8,8 +8,11 @@ permalink:  different_generators
 The purpose of this blog is to talk about the rails generate command. First thing is that generate can just be shortened to "g" when using it. Also in this blog I will use quotation marks but those are not needed in the actual command. Everything inside the quotation marks is just a description what should go there. I also have the command broken up between lines so it's easier to read but in reality when inputting the command it should just be a space.
 
 rails g
+
 "name of generator"
+
 "options"
+
 --no-test-framework
 
 This is the basic format for any rails generate command. There are four generators I'll talk about. They are Migration, Model, Controller, and Resource. These would be what goes in the "name of generator" space. Then the "options" part is where the real interesting stuff happens. Each generator has different options and I'll go over some basic ones. The last bit is there so the generator doesn't build out extra test suites. While testing is important it is convient for small labs and lessons to forgo this so it doesn't interfere with the preexisting tests already there.
